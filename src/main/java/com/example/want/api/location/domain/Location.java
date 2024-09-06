@@ -43,7 +43,7 @@ public class Location {
                 .longitude(location.getLongitude())
                 .popularCount(location.getPopularCount())
                 .placeName(location.getPlaceName())
-                .category(location.getCategory().getValue())
+                .category(location.getCategory().toString())
                 .build();
         return dto;
     }
