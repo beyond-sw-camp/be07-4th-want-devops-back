@@ -1,7 +1,7 @@
 <div align="center">
 <p align="center"><img src="https://github.com/user-attachments/assets/99d9263c-7db9-4873-98d2-dd70102283c2" width="300px" height= "300px"></p>
   
-![main](https://github.com/user-attachments/assets/acb66216-5dab-492f-aeb4-82886e528909)
+![final_main](https://github.com/user-attachments/assets/258545e3-c4eb-4bac-9887-426dd3a7049a)
 
 <div align="center">
 🛫 기존에 경험하지 못한, 새로운 여행 플래너 !
